@@ -2,7 +2,7 @@
 
 #### lec 01
 
-- types os supervised learning
+- types of supervised learning
 1. regression
 2. binary classification
 3. multi-label classification
